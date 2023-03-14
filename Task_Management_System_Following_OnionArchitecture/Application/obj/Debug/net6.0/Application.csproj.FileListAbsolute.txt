@@ -1,0 +1,15 @@
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Task_Management_System_Following_OnionArchitecture\Application\bin\Debug\net6.0\Application.deps.json
+D:\Task_Management_System_Following_OnionArchitecture\Application\bin\Debug\net6.0\Application.dll
+D:\Task_Management_System_Following_OnionArchitecture\Application\bin\Debug\net6.0\Application.pdb
+D:\Task_Management_System_Following_OnionArchitecture\Application\bin\Debug\net6.0\Domain.dll
+D:\Task_Management_System_Following_OnionArchitecture\Application\bin\Debug\net6.0\Domain.pdb
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.dll
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\Application.pdb
+D:\Task_Management_System_Following_OnionArchitecture\Application\obj\Debug\net6.0\ref\Application.dll
